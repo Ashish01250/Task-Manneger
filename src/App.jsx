@@ -163,7 +163,7 @@ function App() {
                         onClick={() => updateItem(item.id)}
                       >
                         Update
-                      </button>``
+                      </button>
                     </>
                   ) : (
                     <>
