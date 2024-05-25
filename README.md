@@ -1,7 +1,4 @@
-# React Crud Applications
 
-> A CRUD application which edits user records in React.  
-Live Demo : https://rahulfaujdar.github.io/react-crud-application/
 ## Project Setup
 
 ```bash
